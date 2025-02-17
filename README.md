@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhitghub
+- 👋 Hi, I’m Abhinav Tripathi
 - 👀 I’m interested in development
 - 🌱 I’m currently learning tech
 - 💞️ I’m looking to collaborate on projects 
